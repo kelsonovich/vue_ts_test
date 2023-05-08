@@ -54,7 +54,6 @@ export default defineComponent({
                                 h('th', {class: 'n-data-table-th'}, 'Ширина'),
                                 h('th', {class: 'n-data-table-th'}, 'Масса'),
                                 h('th', {class: 'n-data-table-th'}, 'Объем'),
-                                h('th', {class: 'n-data-table-th'}, 'Материалы'),
                               ]
                           ),
                       ]
